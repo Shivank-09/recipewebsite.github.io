@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Green Kitchen | Healthy Veggie Recipes</title>
+    <link rel="stylesheet" href="css/style.css">
+    <h2>Mushroom Risotto</h2>
+<img src="images/risotto.jpg" alt="Risotto">
+<p><strong>Prep Time:</strong> 35 mins | <strong>Difficulty:</strong> Medium</p>
+<h3>Ingredients</h3>
+<ul><li>Arborio rice, Mushrooms, Veg broth, Parmesan, Butter</li></ul>
+<h3>Steps</h3>
+<ol><li>Sauté mushrooms. <li>Add broth slowly while stirring. <li>Finish with cheese.</ol>

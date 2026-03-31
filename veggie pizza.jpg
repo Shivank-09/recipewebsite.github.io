@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Green Kitchen | Healthy Veggie Recipes</title>
+    <link rel="stylesheet" href="css/style.css">
+<h2>Vegetable Biryani</h2>
+<img src="images/biryani.jpg" alt="Biryani">
+<p><strong>Prep Time:</strong> 60 mins | <strong>Difficulty:</strong> Hard</p>
+<h3>Ingredients</h3>
+<ul><li>Basmati rice, Mixed veg, Fried onions, Saffron, Spices</li></ul>
+<h3>Steps</h3>
+<ol><li>Parboil rice. <li>Cook veg gravy. <li>Layer and steam 20 mins.</ol>
